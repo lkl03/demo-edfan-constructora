@@ -1,2 +1,7 @@
-# demo-edfan-constructora
-Demo web para EDFAN Constructora — diseñada por eterlab.
+# EDFAN Constructora
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
